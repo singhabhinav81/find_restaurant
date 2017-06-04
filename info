@@ -1,0 +1,1 @@
+url: https://developers.zomato.com/api/v2.1/locations?query='+name+'&lat='+latitude+'&lon='+longitude+'&count=10
